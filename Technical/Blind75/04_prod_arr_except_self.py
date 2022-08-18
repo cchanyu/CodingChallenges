@@ -1,6 +1,6 @@
 
 '''
-correct ans, but time exceeded in a large input
+correct ans, but time exceeded in a large input, time complexity is at least n^2
 '''
 import math
 from pickletools import read_unicodestringnl
