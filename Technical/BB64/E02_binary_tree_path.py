@@ -16,3 +16,8 @@ def binaryTreePaths(self, root):
 
     DFS(root, "")
     return list
+
+'''
+root: [1,2,3,null,5]
+output: ["1->2->5","1->3"]
+'''
