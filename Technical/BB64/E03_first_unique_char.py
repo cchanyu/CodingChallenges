@@ -11,4 +11,8 @@ def firstUniqChar(self, s):
 '''
 s: leetcode
 output: 0 <- l
+
+counter(s)
+loop s
+if there is a match return the position, otherwise return -1
 '''
